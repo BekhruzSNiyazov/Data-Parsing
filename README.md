@@ -1,5 +1,5 @@
 # Data parsing
-This is a program that does data parsing. It was written in C. It accepts 2 command line arguments: name of the file with data and section with key (`section.key`)
+This is a program that does data parsing. It was written in C. It accepts 2 command line arguments: name of the file with data and section with key (`section.key`) and returns the value from the given section and key.
 # Usage
 - Compile the program
 - Run
