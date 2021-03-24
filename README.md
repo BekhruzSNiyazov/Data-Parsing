@@ -24,3 +24,4 @@ key8 = value8
 key9 = value9
 ```
 # License
+This code is licensed with MIT license.
