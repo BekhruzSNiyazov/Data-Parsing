@@ -17,7 +17,8 @@ int main(int argc, char *argv[])
 		strcpy(sectionKey, argv[2]);
 		char *token = strtok(sectionKey, ".");
 		int counter = 0;
-		while (token != NULL) {
+		while (token != NULL)
+		{
 			if (counter == 0)
 			{
 				strcpy(section, token);
